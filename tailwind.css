@@ -1,0 +1,12 @@
+/* Tailwind Import */
+@import "tailwindcss";
+
+/* Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+.font-roboto {
+  font-family: "Roboto", sans-serif;
+}
+.font-bebas {
+  font-family: "Bebas Neue", sans-serif;
+}
